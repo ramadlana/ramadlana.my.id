@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "My Digital Garden",
+                "label": "My Knowledge Base",
                 "url": "https://notes.ramadlana.my.id",
                 "showIcon": true,
                 "icon": "arrowRight"
