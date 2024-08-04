@@ -207,7 +207,7 @@ sections:
       - type: Label
         label: Network Engineering
       - type: Label
-        label: React
+        label: Cloud Computing
       - type: Label
         label: Microsoft Office
       - type: Label
