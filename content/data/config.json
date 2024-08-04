@@ -21,7 +21,8 @@
             {
                 "type": "Link",
                 "label": "My Digital Garden",
-                "url": "https://notes.ramadlana.my.id"
+                "url": "https://notes.ramadlana.my.id",
+                "showIcon": true
             }
         ],
         "socialLinks": [
