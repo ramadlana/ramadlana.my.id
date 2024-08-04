@@ -26,7 +26,16 @@
                 "icon": "arrowRight"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "github",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
