@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "My Digital Garden",
                 "url": "https://notes.ramadlana.my.id",
-                "showIcon": false
+                "showIcon": true
             }
         ],
         "socialLinks": [
