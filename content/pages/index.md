@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: My Knowledge Base
         altText: ''
         url: notes.ramadlana.my.id
         showIcon: false
