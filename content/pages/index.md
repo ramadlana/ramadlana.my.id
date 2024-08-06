@@ -43,18 +43,18 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: My Knowledge Base
+        label: My Portfolio
         altText: ''
-        url: notes.ramadlana.my.id
+        url: /info
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
       - type: Button
-        label: My Portfolio
+        label: My Knowledge Base
         altText: ''
-        url: /info
+        url: notes.ramadlana.my.id
         showIcon: false
         icon: arrowRight
         iconPosition: right
