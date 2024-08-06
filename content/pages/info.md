@@ -77,7 +77,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/biznet_logo-horizontal-fullcolor.png
         altText: Logo five
         caption: Logo five
     spacing: 3
