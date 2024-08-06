@@ -4,10 +4,7 @@ title: User Identity Based Firewall Rules FortiGate
 colors: colors-a
 date: '2022-01-22'
 client: Bank
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: ' The User Identity Based Firewall Rules project focuses on enhancing network security by leveraging FortiGate to create granular firewall rules based on individual user identities. This approach allows for precise control over access and security policies, ensuring that users have appropriate permissions according to their roles and responsibilities.'
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
