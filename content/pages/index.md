@@ -52,7 +52,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: My Portfolio
         altText: ''
         url: /info
         showIcon: false
