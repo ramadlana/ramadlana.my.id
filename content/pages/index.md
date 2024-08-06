@@ -51,6 +51,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /info
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: >
       I am a network engineer with nine years of experience and a deep-seated
       passion for continuous learning. Throughout my career, I have navigated
