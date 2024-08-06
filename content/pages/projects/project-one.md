@@ -4,7 +4,12 @@ title: Wireless and Wired Security NAC Cisco ISE
 colors: colors-a
 date: '2021-10-15'
 client: Bank
-description: ''
+description: >-
+  The Wireless and Wired Security NAC project, utilizing Cisco ISE, enhances
+  network security by implementing comprehensive access control measures for
+  both wireless and wired connections. Cisco ISE facilitates authentication,
+  authorization, and policy enforcement, ensuring that only authorized and
+  compliant devices gain network access.
 media:
   type: ImageBlock
   url: /images/bg1.jpg
