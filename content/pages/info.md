@@ -67,7 +67,7 @@ sections:
       - type: ImageBlock
         url: /images/Sea_Group_Logo.png
         altText: Logo two
-        caption: Logo two
+        caption: Sea Group
       - type: ImageBlock
         url: /images/Smartfren.png
         altText: Logo three
