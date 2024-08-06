@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I’m a Network and system engineer.
-    subtitle: ''
+    subtitle: About me
     styles:
       self:
         height: auto
