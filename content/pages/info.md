@@ -286,18 +286,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-2024**
 
-          * ba computer sciense at a semi fancy school
+          *   Computer Science Master's Degree at Binus University
 
           **2014**
 
-          * react certificate somewhere
+          *   Computer Science Bachelor's Degree at Binus University
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
