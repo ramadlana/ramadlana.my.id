@@ -80,7 +80,7 @@ sections:
         url: /images/biznet_logo-horizontal-fullcolor.png
         altText: Logo five
         caption: Logo five
-    spacing: 3
+    spacing: 23
     columns: 5
     aspectRatio: auto
     showCaption: false
