@@ -3,7 +3,7 @@ type: PostLayout
 title: >-
   Weakness Acknowledgement, Ability to Bounce Back, and Adaptiveness: A Journey
   to Lifelong Learning
-date: '2024-06-03'
+date: '2024-08-06'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Embracing weaknesses, resilience, and adaptability is essential for lifelong
