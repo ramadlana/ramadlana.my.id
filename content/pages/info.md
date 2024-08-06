@@ -57,7 +57,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    colors: colors-b
+    colors: colors-e
     subtitle: 'I worked with these company:'
     images:
       - type: ImageBlock
