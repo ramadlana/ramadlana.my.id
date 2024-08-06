@@ -6,7 +6,10 @@ title: >-
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: >-
+  Embracing weaknesses, resilience, and adaptability is essential for lifelong
+  learning, transforming challenges into growth opportunities and ensuring
+  continuous personal and professional development.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
