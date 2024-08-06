@@ -5,9 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: SD-WAN Project in Bank
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The SD-WAN Project aims to enhance network reliability and performance by
+  integrating FortiGate SD-WAN technology to connect multiple branch locations.
+  Utilizing diverse network types like 4G, leased lines, and broadband, it
+  ensures robust connectivity with IPsec security tunnels and optimized traffic
+  management for improved network efficiency and security.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
