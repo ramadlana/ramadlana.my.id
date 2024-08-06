@@ -41,7 +41,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: notes.ramadlana.my.id
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: >
       I am a network engineer with nine years of experience and a deep-seated
       passion for continuous learning. Throughout my career, I have navigated
