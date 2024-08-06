@@ -6,7 +6,7 @@ title: >-
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: Journey to longlife learning
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
