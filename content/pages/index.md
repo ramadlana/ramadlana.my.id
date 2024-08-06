@@ -48,18 +48,16 @@ sections:
       I am a network engineer with nine years of experience and a deep-seated
       passion for continuous learning. Throughout my career, I have navigated
       various technologies to meet evolving business needs, embracing agility in
-      a constantly changing field. My strong foundational skills in networking,
-      computer systems, and programming have enabled me to quickly acquire and
-      master new technologies.
+      a never-ending evolved technology. My strong foundational skills in
+      networking, computer systems, and programming have enabled me to quickly
+      acquire and master new technologies.
 
 
-      I might not have immediate expertise in every area, but I excel at
-      learning, researching, experimenting, and mastering new skills. My
-      experience includes working extensively with networking systems,
+      My experience includes working extensively with networking systems,
       developing monitoring solutions, and building software and automation
       tools using Python, JavaScript, Node.js, and React.js. I have a solid
       understanding of microservices architecture, containerization with Docker,
-      and Kubernetes clusters. 
+      and Kubernetes clusters.
 
 
       I am also proficient in automation and development tools like Ansible. I
