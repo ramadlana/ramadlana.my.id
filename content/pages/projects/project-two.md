@@ -12,7 +12,7 @@ description: >-
   management for improved network efficiency and security.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/fortinet-secure-sdwan.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
