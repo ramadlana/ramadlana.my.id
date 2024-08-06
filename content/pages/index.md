@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Ramadlana Homepage
+title: Home of Ramadlana
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
