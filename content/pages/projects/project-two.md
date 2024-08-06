@@ -16,7 +16,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/fortinet-secure-sdwan.png
   altText: Project image
 ---
 The SD-WAN Project aims to enhance network connectivity and resilience by integrating multiple branch locations using FortiGate SD-WAN technology. This initiative is designed to create a more robust and reliable network infrastructure by leveraging various types of network connections, including 4G, leased lines, and broadband. The use of FortiGate SD-WAN ensures a seamless combination of these network types, providing improved bandwidth and reduced latency across the entire network.
