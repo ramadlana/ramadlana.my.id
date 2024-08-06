@@ -255,26 +255,27 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Premier Delivery Services at Extreme Networks
 
-          **2018-2021**
+          **2023-2024**
 
-          * fullstack at this startup
+          *   Network Engineer Manager at SeaBank Indonesia (Sea Group)
 
-          **2015**
+          **2022-2023**
 
-          * senior front-end at this place
+          *   Network Engineer Assistant Manager at Smartfren Telecom Indonesia
 
-          **2013**
+          **2019-2022**
 
-          * intern developer at a big company
+          *   Network Engineer Lead at Multipolar Technology
 
-          **2011**
+          **2015-2019**
 
-          * flipping burgers
+          *   Network Engineer at Biznet Networks.com
+
         styles:
           self:
             textAlign: left
