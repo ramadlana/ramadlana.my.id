@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a Network Engineer, System Engineer,automation engineer and cloud
-      engineer.
+    title: I’m a Network Engineer and system engineer.
     subtitle: ''
     styles:
       self:
