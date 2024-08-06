@@ -63,7 +63,7 @@ sections:
       - type: ImageBlock
         url: /images/Extreme.png
         altText: Logo one
-        caption: Logo one
+        caption: Extreme Networks
       - type: ImageBlock
         url: /images/Sea_Group_Logo.png
         altText: Logo two
