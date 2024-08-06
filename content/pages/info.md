@@ -58,7 +58,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-b
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I worked with these company:'
     images:
       - type: ImageBlock
         url: /images/Extreme.png
