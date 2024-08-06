@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: 'Weakness Acknowledgement, Ability to bounce back and Adaptive'
+title: >-
+  Weakness Acknowledgement, Ability to Bounce Back, and Adaptiveness: A Journey
+  to Lifelong Learning
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
