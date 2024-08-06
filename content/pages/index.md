@@ -54,7 +54,7 @@ sections:
       - type: Button
         label: My Knowledge Base
         altText: ''
-        url: notes.ramadlana.my.id
+        url: 'https://notes.ramadlana.my.id/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
