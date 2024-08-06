@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: SD-WAN Project in Bank
 colors: colors-a
 date: '2021-12-20'
 client: SD-WAN Project in Bank
