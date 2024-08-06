@@ -4,7 +4,7 @@ title: Ramadlana Homepage
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
