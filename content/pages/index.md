@@ -60,7 +60,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    text: >
+    text: >+
       I am a network engineer with nine years of experience and a deep-seated
       passion for continuous learning. Throughout my career, I have navigated
       various technologies to meet evolving business needs, embracing agility in
@@ -73,14 +73,20 @@ sections:
       developing monitoring solutions, and building software and automation
       tools using Python, JavaScript, Node.js, and React.js. I have a solid
       understanding of microservices architecture, containerization with Docker,
-      and Kubernetes clusters.
+      and Kubernetes clusters. I dedicate significant time to exploring and
+      developing projects with cloud technologies, particularly AWS, GCP, and
+      Microsoft Azure. I thrive on self-directed research and development,
+      constantly seeking to enhance my skills and apply my knowledge to improve
+      my day-to-day work.
 
 
-      I am also proficient in automation and development tools like Ansible. I
-      dedicate significant time to exploring and developing projects with cloud
-      technologies, particularly AWS, GCP, and Microsoft Azure. I thrive on
-      self-directed research and development, constantly seeking to enhance my
-      skills and apply my knowledge to improve my day-to-day work.
+
+      I work with a wide range of technologies and need a way to document and
+      recall this information as needed. I also hope this resource will serve as
+      a reference for others, allowing them to share their insights and
+      corrections. Please refer to the "Knowledge Base" button below for more
+      details.
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
