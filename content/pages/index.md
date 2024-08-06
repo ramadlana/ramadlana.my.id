@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I’m a Network Engineer and system engineer.
+    title: I’m a Network and system engineer.
     subtitle: ''
     styles:
       self:
